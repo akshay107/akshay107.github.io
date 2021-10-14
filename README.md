@@ -2,4 +2,4 @@
 
 Hello World!
 
-$\begin{equation} a^2 + b^2 = c^2 \end{equation}$ 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
